@@ -50,7 +50,9 @@ def get_movie_data(start):
  
         sleep(2)
 
-    df.to_csv('c:/temp/movie_data.csv', index=False)
+    # uncomment the following line to save data to csv file
+    # line has been commented out because labeling of data has not been implmented yet
+    # df.to_csv('c:/temp/movie_data.csv', index=False)
     return df
 
 

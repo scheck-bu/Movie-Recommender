@@ -1,4 +1,6 @@
-# This is a sample Python script.
+# Author: Garth Scheck
+# Date: 2/22/2025
+# Summary: This is a Python application for recommending movies.
 
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.

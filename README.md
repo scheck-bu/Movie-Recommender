@@ -1,3 +1,3 @@
 # Movie-Recommender
 
-A notebook exploring predicting movie interests based off previous data.
+A notebook and Python application exploring predicting movie interests based off previous data.

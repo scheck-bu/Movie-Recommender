@@ -2,5 +2,5 @@ This Jupyter Notebook explores using machine learning to make movie recommendati
 
 An API Key is required from the following link:
 
-    https://developer.themoviedb.org/docs/getting-started
+    "https://developer.themoviedb.org/docs/getting-started"
 
